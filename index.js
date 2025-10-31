@@ -46,6 +46,6 @@ const resumeButton = document.getElementById("resume-btn");
 resumeButton.addEventListener("click", () => {
   console.log("Resume button clicked");
   window.open(
-    "https://drive.google.com/file/d/1B1GHL80VWeZ3guQGqubI6GCLRJEo-cPU/view?usp=drive_link"
+    "https://drive.google.com/file/d/18pDKu-W7AHg9WVW6qL0XU70qZFPvvKEb/view?usp=drive_link"
   );
 });
